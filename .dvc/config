@@ -1,0 +1,4 @@
+[core]
+    remote = dvcmlopsstore
+['remote "dvcmlopsstore"']
+    url = s3://dvcs3-bucket
